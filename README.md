@@ -1,7 +1,7 @@
 # 📱 LifeFactor – Smart Fitness & Nutrition Tracker
 
 <p align="center">
-  <img src="watermarked_img_3440609348590986477.png" alt="Kinetik Studios Logo" width="120"/>
+  <img src="Kinetik Studios Logo.png" alt="Kinetik Studios Logo" width="120"/>
 </p>
 
 <p align="center">
