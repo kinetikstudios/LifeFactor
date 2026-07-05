@@ -38,10 +38,10 @@
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Framework**: `[Flutter / React Native / Native Android - Fill Here]`
-* **Local Database**: `[Hive / SQLite / Room - Fill Here]`
+* **Framework**: `[Flutter / React Native / Native Android]`
+* **Local Database**: `[Hive / SQLite / Room]`
 * **Barcode Engine**: Google ML Kit Barcode Scanning
-* **AI Vision API**: `[Gemini API / OpenAI API - Fill Here]`
+* **AI Vision API**: `[Gemini API]`
 * **Product Database**: Open Food Facts API
 
 ---
@@ -49,12 +49,11 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-* `[Flutter SDK / Node.js / Android Studio - Fill Here]`
-* An Android device or emulator (Android 8.0+ recommended)
+* A recent android phone
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/lifefactor.git
+1. download the apk file
+2. install it
+3. and enjoy 
    
