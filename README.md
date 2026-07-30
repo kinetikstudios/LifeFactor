@@ -9,9 +9,7 @@
   <em>Code. Innovation. Motion.</em>
 </p>
 
-<a align="center" href='https://lilifefactor-fitness-and-nutrition.en.uptodown.com/android' title='Download LiLifeFactor — Fitness & Nutrition' >
-                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download LiLifeFactor — Fitness & Nutrition'>
-                </a>
+
 ---
 
 ## 🎯 About LifeFactor
@@ -59,4 +57,7 @@
 1. download the apk file
 2. install it
 3. and enjoy 
-   
+
+     <a href='https://lilifefactor-fitness-and-nutrition.en.uptodown.com/android' title='Download LiLifeFactor — Fitness & Nutrition' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download LiLifeFactor — Fitness & Nutrition'>
+                </a>
